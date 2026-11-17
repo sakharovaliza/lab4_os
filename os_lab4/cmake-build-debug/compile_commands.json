@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/Liza/CLionProjects/os_lab4/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Receiver.dir/main.cpp.o -c /Users/Liza/CLionProjects/os_lab4/main.cpp",
+  "file": "/Users/Liza/CLionProjects/os_lab4/main.cpp",
+  "output": "/Users/Liza/CLionProjects/os_lab4/cmake-build-debug/CMakeFiles/Receiver.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/Liza/CLionProjects/os_lab4/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++17 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Sender.dir/sender.cpp.o -c /Users/Liza/CLionProjects/os_lab4/sender.cpp",
+  "file": "/Users/Liza/CLionProjects/os_lab4/sender.cpp",
+  "output": "/Users/Liza/CLionProjects/os_lab4/cmake-build-debug/CMakeFiles/Sender.dir/sender.cpp.o"
+}
+]

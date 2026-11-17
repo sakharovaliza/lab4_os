@@ -1,0 +1,4 @@
+/Users/Liza/CLionProjects/os_lab4/cmake-build-debug/CMakeFiles/Receiver.dir
+/Users/Liza/CLionProjects/os_lab4/cmake-build-debug/CMakeFiles/Sender.dir
+/Users/Liza/CLionProjects/os_lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Liza/CLionProjects/os_lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
